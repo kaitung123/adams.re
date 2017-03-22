@@ -1,0 +1,36 @@
+# Application
+web/app/plugins/*
+!web/app/plugins/.gitkeep
+web/app/mu-plugins/*/
+web/app/upgrade
+web/app/uploads/*
+!web/app/uploads/.gitkeep
+!web/app/themes/*
+
+#include wpml plugins
+web/app/plugins/*
+!web/app/plugins/wpml-media-translation
+!web/app/plugins/wpml-string-translation
+!web/app/plugins/wpml-translation-management
+!web/app/plugins/sitepress-multilingual-cms
+!web/app/plugins/wpml-all-import
+
+#include wpai plugins
+!web/app/plugins/wp-all-import-pro
+!web/app/plugins/wpai-woocommerce-add-on
+
+# MAC
+.DS_Store
+
+# WordPress
+web/wp
+web/.htaccess
+
+# Dotenv
+.env
+.env.*
+!.env.example
+
+# Composer
+vendor/*
+!vendor/.gitkeep
