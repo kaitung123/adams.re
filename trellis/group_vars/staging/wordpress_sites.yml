@@ -3,7 +3,7 @@
 # Define accompanying passwords/secrets in group_vars/staging/vault.yml
 
 wordpress_sites:
-  adams.re:
+  tomtech.xyz:
     site_hosts:
       - canonical: tomtech.xyz
         redirects:
