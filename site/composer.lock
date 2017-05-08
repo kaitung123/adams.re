@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "8d350c751df342ddf7ad4015a5be2782",
+    "content-hash": "21bbbd1e1f8e0112a1a73fa3c7907cac",
     "packages": [
         {
             "name": "composer/installers",
@@ -585,15 +585,15 @@
         },
         {
             "name": "wpackagist-plugin/woocommerce",
-            "version": "3.0.5",
+            "version": "2.6.14",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/woocommerce/",
-                "reference": "tags/3.0.5"
+                "reference": "tags/2.6.14"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/woocommerce.3.0.5.zip",
+                "url": "https://downloads.wordpress.org/plugin/woocommerce.2.6.14.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -789,7 +789,6 @@
     "stability-flags": {
         "wp-sync-db/wp-sync-db": 20,
         "wp-sync-db/wp-sync-db-media-files": 20,
-        "wpackagist-plugin/woocommerce": 0,
         "wpackagist-plugin/woocommerce-multilingual": 0,
         "wpackagist-plugin/woosidebars": 0,
         "wpackagist-plugin/nextend-google-connect": 0,

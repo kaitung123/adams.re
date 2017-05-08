@@ -40,7 +40,7 @@
     "roots/wp-password-bcrypt": "1.0.0",
     "wp-sync-db/wp-sync-db": "dev-master@dev",
     "wp-sync-db/wp-sync-db-media-files": "dev-master",
-    "wpackagist-plugin/woocommerce":"@stable",
+    "wpackagist-plugin/woocommerce":"2.6.14",
     "wpackagist-plugin/woocommerce-multilingual":"@stable",
     "wpackagist-plugin/woosidebars":"@stable",
     "wpackagist-plugin/nextend-google-connect":"@stable",
