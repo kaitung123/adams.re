@@ -53,7 +53,8 @@
     "johnpbloch/wordpress": "^4.7.3",
     "wpackagist-plugin/easy-wp-smtp": "@stable",
     "wpackagist-plugin/wordfence": "@stable",
-    "wpackagist-plugin/wordpress-seo": "@stable"
+    "wpackagist-plugin/wordpress-seo": "@stable",
+    "wpackagist-plugin/cookie-notice": "@stable"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
