@@ -50,7 +50,7 @@
     "wpackagist-plugin/p3-profiler":"@stable",
     "wpackagist-plugin/favicon-by-realfavicongenerator": "@stable",
     "wpackagist-plugin/regenerate-thumbnails": "@stable",
-    "johnpbloch/wordpress": "^4.7",
+    "johnpbloch/wordpress": "^4.7.3",
     "wpackagist-plugin/easy-wp-smtp": "@stable",
     "wpackagist-plugin/wordfence": "@stable",
     "wpackagist-plugin/wordpress-seo": "@stable"
