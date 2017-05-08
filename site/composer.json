@@ -51,7 +51,9 @@
     "wpackagist-plugin/favicon-by-realfavicongenerator": "@stable",
     "wpackagist-plugin/regenerate-thumbnails": "@stable",
     "johnpbloch/wordpress": "^4.7",
-    "wpackagist-plugin/easy-wp-smtp": "@stable"
+    "wpackagist-plugin/easy-wp-smtp": "@stable",
+    "wpackagist-plugin/wordfence": "@stable",
+    "wpackagist-plugin/wordpress-seo": "@stable"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
