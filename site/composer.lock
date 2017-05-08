@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "21bbbd1e1f8e0112a1a73fa3c7907cac",
+    "content-hash": "256327d96005650d7c64788681d98f0d",
     "packages": [
         {
             "name": "composer/installers",
@@ -464,6 +464,26 @@
             "homepage": "https://wordpress.org/plugins/contact-form-7/"
         },
         {
+            "name": "wpackagist-plugin/cookie-notice",
+            "version": "1.2.38",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/cookie-notice/",
+                "reference": "tags/1.2.38"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/cookie-notice.1.2.38.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/cookie-notice/"
+        },
+        {
             "name": "wpackagist-plugin/easy-wp-smtp",
             "version": "1.2.5",
             "source": {
@@ -800,7 +820,8 @@
         "wpackagist-plugin/regenerate-thumbnails": 0,
         "wpackagist-plugin/easy-wp-smtp": 0,
         "wpackagist-plugin/wordfence": 0,
-        "wpackagist-plugin/wordpress-seo": 0
+        "wpackagist-plugin/wordpress-seo": 0,
+        "wpackagist-plugin/cookie-notice": 0
     },
     "prefer-stable": false,
     "prefer-lowest": false,
